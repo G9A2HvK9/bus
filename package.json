@@ -14,5 +14,8 @@
     "url": "https://www.github.com/g9a2hvk9/bus"
   },
   "author": "g9a2hvk9",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "tfl.api": "^1.6.1"
+  }
 }
