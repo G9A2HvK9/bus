@@ -1,0 +1,18 @@
+{
+  "name": "bus",
+  "version": "1.0.0",
+  "description": "Adds all dependencies needed to run bus app",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/g9a2hvk9/bus"
+  },
+  "author": "g9a2hvk9",
+  "license": "ISC"
+}
